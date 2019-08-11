@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InetBankingV1" duration-ms="108631" started-at="2019-08-10T10:04:39Z" finished-at="2019-08-10T10:06:27Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="108631" started-at="2019-08-10T10:04:39Z" finished-at="2019-08-10T10:06:27Z">
+      <class name="testCases.CustomerModuleTests">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="setup" is-config="true" duration-ms="10944" started-at="2019-08-10T10:04:39Z" finished-at="2019-08-10T10:04:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:testCases.CustomerModuleTests@16c48ac]" name="loginTest" duration-ms="2921" started-at="2019-08-10T10:04:50Z" finished-at="2019-08-10T10:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="tearDown" is-config="true" duration-ms="861" started-at="2019-08-10T10:04:53Z" finished-at="2019-08-10T10:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="setup" is-config="true" duration-ms="8741" started-at="2019-08-10T10:04:54Z" finished-at="2019-08-10T10:05:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="linkCountTest()[pri:2, instance:testCases.CustomerModuleTests@16c48ac]" name="linkCountTest" duration-ms="5305" started-at="2019-08-10T10:05:03Z" finished-at="2019-08-10T10:05:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkCountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="tearDown" is-config="true" duration-ms="850" started-at="2019-08-10T10:05:08Z" finished-at="2019-08-10T10:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="setup" is-config="true" duration-ms="9128" started-at="2019-08-10T10:05:09Z" finished-at="2019-08-10T10:05:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:3, instance:testCases.CustomerModuleTests@16c48ac]" name="addNewCustomer" duration-ms="23061" started-at="2019-08-10T10:05:18Z" finished-at="2019-08-10T10:05:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="tearDown" is-config="true" duration-ms="904" started-at="2019-08-10T10:05:41Z" finished-at="2019-08-10T10:05:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="setup" is-config="true" duration-ms="12102" started-at="2019-08-10T10:05:42Z" finished-at="2019-08-10T10:05:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="editCustomer()[pri:4, instance:testCases.CustomerModuleTests@16c48ac]" name="editCustomer" duration-ms="14129" started-at="2019-08-10T10:05:54Z" finished-at="2019-08-10T10:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.CustomerModuleTests@16c48ac]" name="tearDown" is-config="true" duration-ms="827" started-at="2019-08-10T10:06:08Z" finished-at="2019-08-10T10:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.CustomerModuleTests -->
+      <class name="testCases.AccountModuleTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:testCases.AccountModuleTest@1deb50e]" name="setup" is-config="true" duration-ms="8450" started-at="2019-08-10T10:06:09Z" finished-at="2019-08-10T10:06:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewAccount()[pri:5, instance:testCases.AccountModuleTest@1deb50e]" name="addNewAccount" duration-ms="9150" started-at="2019-08-10T10:06:17Z" finished-at="2019-08-10T10:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewAccount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.AccountModuleTest@1deb50e]" name="tearDown" is-config="true" duration-ms="882" started-at="2019-08-10T10:06:26Z" finished-at="2019-08-10T10:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AccountModuleTest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>
